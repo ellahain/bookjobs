@@ -389,12 +389,6 @@ function App() {
                                 2026 Summer Internship - Junior Business Analyst (NYC)
                             </a>
                         </li>
-                        <li>
-                            <a href="https://careers-harpercollins.icims.com/jobs/5270/legal-assistant-%28nyc-hybrid%29/job?hub=7&_gl=1*1fuzbzx*_ga*MTM3OTEyMzI1OC4xNzYzNDMxMDY4*_ga_5Y2BYGL910*czE3NzQzMDYzNjgkbzcxJGcxJHQxNzc0MzA2Mzg0JGo0NCRsMCRoMA.."
-                               target="_blank">
-                                Legal Assistant (NYC Hybrid)
-                            </a>
-                        </li>
                     </ul>
                     <hr/>
                     <br/>
