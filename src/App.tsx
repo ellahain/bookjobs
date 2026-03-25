@@ -118,12 +118,6 @@ function App() {
                             Content Management Assistant (Princeton, NJ Hybrid)
                         </a>
                     </li>
-                    <li>
-                        <a href="https://careers-harpercollins.icims.com/jobs/5270/legal-assistant-%28nyc-hybrid%29/job?hub=7&_gl=1*1fuzbzx*_ga*MTM3OTEyMzI1OC4xNzYzNDMxMDY4*_ga_5Y2BYGL910*czE3NzQzMDYzNjgkbzcxJGcxJHQxNzc0MzA2Mzg0JGo0NCRsMCRoMA.."
-                           target="_blank">
-                            Legal Assistant (NYC Hybrid)
-                        </a>
-                    </li>
                 </ul>
                 <hr/>
                 <br/>
@@ -152,6 +146,12 @@ function App() {
   <p style={{margin: 0}}>Simon & Schuster</p>
 </span>
                 <ul>
+                    <li>
+                        <a href="https://jobs.dayforcehcm.com/en-US/simonschustr/CANDIDATEPORTAL/jobs/5994"
+                           target="_blank">
+                            Assistant/Associate Editor, Scribner (New York, NY)
+                        </a>
+                    </li>
                     <li>
                         <a href="https://jobs.dayforcehcm.com/en-US/simonschustr/CANDIDATEPORTAL/jobs/5940"
                            target="_blank">
@@ -184,6 +184,12 @@ function App() {
   <p style={{margin: 0}}>Bloomsbury</p>
 </span>
                 <ul>
+                    <li>
+                        <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4031880"
+                           target="_blank">
+                            Marketing & Publicity Assistant, Special Interest (Hybrid New York, NY)
+                        </a>
+                    </li>
                     <li>
                         <a href="https://recruiting.paylocity.com/recruiting/jobs/Details/3890228/Bloomsbury-Publishing/Conferences-Assistant-Academic-Professional-Marketing?source=Internal+Careers+Page"
                            target="_blank">
@@ -342,6 +348,11 @@ function App() {
 </span>
                 <ul>
                     <li>
+                        <a href="https://jobs.jobvite.com/hachette-book-group/job/owJSzfwq" target="_blank">
+                            Spring/Summer 2026 Digital Communications Internship (New York, New York)
+                        </a>
+                    </li>
+                    <li>
                         <a href="https://jobs.jobvite.com/hachette-book-group/job/o19Pzfwi" target="_blank">
                             Summer 2026 Running Press Marketing and Publicity Internship (Philadelphia, PA)
                         </a>
@@ -410,12 +421,7 @@ function App() {
   <p style={{margin: 0}}>Harper Collins</p>
 </span>
                 <ul>
-                    <li>
-                        <a href="https://careers-harpercollins.icims.com/jobs/5255/2026-summer-internship---junior-business-analyst-%28nyc%29/job?hub=7&_gl=1*gsirib*_ga*MTM3OTEyMzI1OC4xNzYzNDMxMDY4*_ga_5Y2BYGL910*czE3NzQzMDkzMDIkbzcyJGcwJHQxNzc0MzA5MzAyJGo2MCRsMCRoMA..&mobile=false&width=1454&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240"
-                           target="_blank">
-                            2026 Summer Internship - Junior Business Analyst (NYC)
-                        </a>
-                    </li>
+
                 </ul>
                 <hr/>
                 <br/>
