@@ -68,6 +68,11 @@ function App() {
 </span>
                 <ul>
                     <li>
+                        <a href="https://jobs.jobvite.com/hachette-book-group/job/oLWFzfwF" target="_blank">
+                            Editorial Assistant, Little, Brown Spark (New York, New York)
+                        </a>
+                    </li>
+                    <li>
                         <a href="https://jobs.jobvite.com/hachette-book-group/job/oE1SzfwQ" target="_blank">
                             Special Markets Sales Assistant (New York, New York)
                         </a>
@@ -127,7 +132,7 @@ function App() {
 </span>
                 <ul>
                     <li>
-                        <a href="https://recruiting.ultipro.com/HOL1002HPHM/JobBoard/be27b89b-3cb9-491f-a1b0-42f8b077a9dd/?q=&o=postedDateDesc&w=&wc=&we=&wpst="
+                        <a href="https://recruiting.ultipro.com/HOL1002HPHM/JobBoard/be27b89b-3cb9-491f-a1b0-42f8b077a9dd/OpportunityDetail?opportunityId=ff2cc175-8246-4d87-9e40-b9cae03e8098"
                            target="_blank">
                             Publicity Assistant - MPG (SMPG) (Remote)
                         </a>
@@ -147,6 +152,12 @@ function App() {
 </span>
                 <ul>
                     <li>
+                        <a href="https://jobs.dayforcehcm.com/en-US/simonschustr/CANDIDATEPORTAL/jobs/6055"
+                           target="_blank">
+                            Editorial Assistant, Scribner Books (New York, NY)
+                        </a>
+                    </li>
+                    <li>
                         <a href="https://jobs.dayforcehcm.com/en-US/simonschustr/CANDIDATEPORTAL/jobs/5994"
                            target="_blank">
                             Assistant/Associate Editor, Scribner (New York, NY)
@@ -162,12 +173,6 @@ function App() {
                         <a href="https://jobs.dayforcehcm.com/en-US/simonschustr/CANDIDATEPORTAL/jobs/5933"
                            target="_blank">
                             Editorial Assistant, Gallery Books, specializing in Romance (New York, NY)
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://jobs.dayforcehcm.com/en-US/simonschustr/CANDIDATEPORTAL/jobs/5877"
-                           target="_blank">
-                            Managing Editorial Assistant, Children's Division (New York, NY)
                         </a>
                     </li>
                 </ul>
@@ -244,12 +249,6 @@ function App() {
                         <a href="https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York/Junior-Designer_R15238"
                            target="_blank">
                             Junior Designer (New York, NY)
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York/Audiovisual-Temp_R14943"
-                           target="_blank">
-                            Audiovisual Temp (New York, NY)
                         </a>
                     </li>
                     <li>
@@ -511,11 +510,6 @@ function App() {
                     <li>
                         <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4011447" target="_blank">
                             Fairchild Books- Spring/Summer Editorial Internship (New York, NY Hybrid)
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3968942" target="_blank">
-                            Marketing/Publicity Intern, Special Interest (New York, NY Hybrid)
                         </a>
                     </li>
                 </ul>
