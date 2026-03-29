@@ -48,11 +48,16 @@ function App() {
 </span>
                 <ul>
                     <li>
-                        <a href="https://jobsearch.createyourowncareer.com/PRH_US/job/Marketing-Assistant%2C-Avery-Books-&amp;-Tarcher-Books-%28Hybrid%29/287594-en_US"
-                           target="_blank">
-                            Marketing Assistant, Avery Books & Tarcher Books (Hybrid)
-                        </a>
-                    </li>
+                    <a href="https://jobsearch.createyourowncareer.com/PRH_US/job/Administrative-Assistant%2C-IT-%28Hybrid%29/287193-en_US"
+                       target="_blank">
+                        Administrative Assistant, IT (Hybrid)
+                    </a>
+                </li><li>
+                    <a href="https://jobsearch.createyourowncareer.com/PRH_US/job/Associate-Production-Editor-%28Open-to-remote%29/287845-en_US"
+                       target="_blank">
+                        Associate Production Editor (Open to remote)
+                    </a>
+                </li>
                     <li>
                         <a href="https://jobsearch.createyourowncareer.com/PRH_US/job/Publicity-Assistant%2C-Riverhead-%28Hybrid%29/287383-en_US"
                            target="_blank">
@@ -83,11 +88,6 @@ function App() {
                         </a>
                     </li>
                     <li>
-                        <a href="https://jobs.jobvite.com/hachette-book-group/job/o19nzfwQ" target="_blank">
-                            Marketing Associate, John Murray Press (Philadelphia, Pennsylvania)
-                        </a>
-                    </li>
-                    <li>
                         <a href="https://jobs.jobvite.com/hachette-book-group/job/onuNzfwX" target="_blank">
                             Production Assistant/Associate (Boulder, Colorado)
                         </a>
@@ -111,6 +111,12 @@ function App() {
   <p style={{margin: 0}}>Harper Collins</p>
 </span>
                 <ul>
+                    <li>
+                        <a href="https://careers-harpercollins.icims.com/jobs/5290/associate-editor-%28nyc-hybrid%29/job?hub=7&_gl=1*1p9y609*_ga*MTM3OTEyMzI1OC4xNzYzNDMxMDY4*_ga_5Y2BYGL910*czE3NzQ3NTM0NTAkbzc2JGcxJHQxNzc0NzUzNDY1JGo0NSRsMCRoMA.."
+                           target="_blank">
+                            Associate Editor, Harlequin Intrigue (NYC Hybrid)
+                        </a>
+                    </li>
                     <li>
                         <a href="https://careers-harpercollins.icims.com/jobs/5285/assistant%2c-editorial-services-%28princeton%2c-nj-hybrid%29/job?hub=7&_gl=1*1yceey6*_ga*MTM3OTEyMzI1OC4xNzYzNDMxMDY4*_ga_5Y2BYGL910*czE3NzQzODc2MDUkbzczJGcxJHQxNzc0Mzg3NjA2JGo1OSRsMCRoMA..&mobile=false&width=1454&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240"
                            target="_blank">
