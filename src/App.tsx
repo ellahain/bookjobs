@@ -48,6 +48,12 @@ function App() {
 </span>
                 <ul>
                     <li>
+                        <a href="https://jobsearch.createyourowncareer.com/PRH_US/job/Publicity-Assistant%2C-Riverhead-%28Hybrid%29/287383-en_US"
+                           target="_blank">
+                            Publicity Assistant, Riverhead (Hybrid)
+                        </a>
+                    </li>
+                    <li>
                     <a href="https://jobsearch.createyourowncareer.com/PRH_US/job/Administrative-Assistant%2C-IT-%28Hybrid%29/287193-en_US"
                        target="_blank">
                         Administrative Assistant, IT (Hybrid)
@@ -128,6 +134,18 @@ function App() {
 </span>
                 <ul>
                     <li>
+                        <a href="https://recruiting.ultipro.com/HOL1002HPHM/JobBoard/be27b89b-3cb9-491f-a1b0-42f8b077a9dd/OpportunityDetail?opportunityId=b61a7829-db26-4b7d-ad30-79e55f8200c4"
+                           target="_blank">
+                            Associate/Associate Manager, Backlists & Trends - Audio (Remote)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://recruiting.ultipro.com/HOL1002HPHM/JobBoard/be27b89b-3cb9-491f-a1b0-42f8b077a9dd/OpportunityDetail?opportunityId=fdff7381-be85-4088-b98f-e07e0de7211e"
+                           target="_blank">
+                            Editorial Assistant, MPG (SMPG) (Remote/NY)
+                        </a>
+                    </li>
+                    <li>
                         <a href="https://recruiting.ultipro.com/HOL1002HPHM/JobBoard/be27b89b-3cb9-491f-a1b0-42f8b077a9dd/OpportunityDetail?opportunityId=ff2cc175-8246-4d87-9e40-b9cae03e8098"
                            target="_blank">
                             Publicity Assistant - MPG (SMPG) (Remote)
@@ -193,6 +211,12 @@ function App() {
   <p style={{margin: 0}}>Bloomsbury</p>
 </span>
                 <ul>
+                    <li>
+                        <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4054532?source=Internal%20Careers%20Page"
+                           target="_blank">
+                            Editorial Assistant, Bloomsbury Academic-Hybrid (Greenbelt, MD)
+                        </a>
+                    </li>
                     <li>
                         <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4031880"
                            target="_blank">
@@ -263,11 +287,7 @@ function App() {
   <p style={{margin: 0}}>Chronicle Books</p>
 </span>
                 <ul>
-                    <li>
-                        <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3935378" target="_blank">
-                            Publicity Assistant (San Francisco, CA)
-                        </a>
-                    </li>
+
                 </ul>
                 <hr/>
                 <br/>
@@ -284,7 +304,7 @@ function App() {
 </span>
                 <ul>
                     <li>
-                        <a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8e27a2d8-9a25-4600-a40b-77eec5e6daaa&ccId=19000101_000001&lang=en_US&jobId=547207"
+                        <a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8e27a2d8-9a25-4600-a40b-77eec5e6daaa&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=547206"
                            target="_blank">
                             Editorial Assistant-Children's (New York, NY)
                         </a>
