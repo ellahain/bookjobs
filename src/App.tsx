@@ -58,12 +58,7 @@ function App() {
                         Associate Production Editor (Open to remote)
                     </a>
                 </li>
-                    <li>
-                        <a href="https://jobsearch.createyourowncareer.com/PRH_US/job/Publicity-Assistant%2C-Riverhead-%28Hybrid%29/287383-en_US"
-                           target="_blank">
-                            Publicity Assistant, Riverhead (Hybrid)
-                        </a>
-                    </li>
+
                 </ul>
                 <hr/>
                 <br/>
@@ -90,11 +85,6 @@ function App() {
                     <li>
                         <a href="https://jobs.jobvite.com/hachette-book-group/job/onuNzfwX" target="_blank">
                             Production Assistant/Associate (Boulder, Colorado)
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://jobs.jobvite.com/hachette-book-group/job/o6XMzfw8" target="_blank">
-                            Publicity & Marketing Assistant/Associate, Timber Press (Portland, OR)
                         </a>
                     </li>
                     <li>
@@ -188,6 +178,14 @@ function App() {
   <img src={sbLogo} alt="Sourcebooks logo" style={{width: '24px', height: '24px', objectFit: 'contain'}}/>
   <p style={{margin: 0}}>Sourcebooks</p>
 </span>
+                <ul>
+                    <li>
+                        <a href="https://sourcebooks.applytojob.com/apply/GI30NsIufG/Junior-Accounts-Receivable-Accountant"
+                           target="_blank">
+                            Junior Accounts Receivable Accountant (Naperville, IL)
+                        </a>
+                    </li>
+                </ul>
                 <hr/>
                 <br/>
                 <span style={{display: 'flex', alignItems: 'center', gap: '8px'}}>
@@ -199,12 +197,6 @@ function App() {
                         <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4031880"
                            target="_blank">
                             Marketing & Publicity Assistant, Special Interest (Hybrid New York, NY)
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://recruiting.paylocity.com/recruiting/jobs/Details/3890228/Bloomsbury-Publishing/Conferences-Assistant-Academic-Professional-Marketing?source=Internal+Careers+Page"
-                           target="_blank">
-                            Conferences Assistant, Academic & Professional Marketing (Greenbelt, MD)
                         </a>
                     </li>
                     <li>
@@ -227,12 +219,6 @@ function App() {
   <p style={{margin: 0}}>Scholastic</p>
 </span>
                 <ul>
-                    <li>
-                        <a href="https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York/Senior-Production-Editor_R14994-1"
-                           target="_blank">
-                            Assistant Production Editor (New York, NY)
-                        </a>
-                    </li>
                     <li>
                         <a href="https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York/Editorial-Assistant_R15277"
                            target="_blank">
@@ -352,6 +338,16 @@ function App() {
   <p style={{margin: 0}}>Hachette Book Group</p>
 </span>
                 <ul>
+                    <li>
+                        <a href="https://jobs.jobvite.com/hachette-book-group/job/oLANzfwr" target="_blank">
+                            Summer 2026 Timber Press Publicity Internship (Portland, OR)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://jobs.jobvite.com/hachette-book-group/job/og0Szfwr" target="_blank">
+                            Summer 2026 Algonquin Editorial Internship (New York, New York)
+                        </a>
+                    </li>
                     <li>
                         <a href="https://jobs.jobvite.com/hachette-book-group/job/owJSzfwq" target="_blank">
                             Spring/Summer 2026 Digital Communications Internship (New York, New York)
@@ -514,6 +510,11 @@ function App() {
 </span>
                 <ul>
                     <li>
+                        <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4043750?source=Internal%20Careers%20Page" target="_blank">
+                            Intern for Intro Reference/Bloomsbury Libraries Unlimited (New York)
+                        </a>
+                    </li>
+                    <li>
                         <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4011447" target="_blank">
                             Fairchild Books- Spring/Summer Editorial Internship (New York, NY Hybrid)
                         </a>
@@ -635,14 +636,6 @@ function App() {
                         </a>
                     </li>
                     <li>
-                        <a href="https://apps.atsondemand.com/templates/magneto/#/jobDescription/909342/"
-                           target="_blank">
-                            Art, Archaeology, and Biological Anthropology Editorial Internship, Summer 2026 (New
-                            York or
-                            Remote, OT)
-                        </a>
-                    </li>
-                    <li>
                         <a href="https://apps.atsondemand.com/templates/magneto/#/jobDescription/909343/"
                            target="_blank">
                             Biology Editorial Internship, Summer 2026 (New York or Remote, OT)
@@ -661,14 +654,6 @@ function App() {
                         </a>
                     </li>
                     <li>
-                        <a href="https://apps.atsondemand.com/templates/magneto/#/jobDescription/909341/"
-                           target="_blank">
-                            Composition, Film, and Communication Editorial Internship, Summer 2026 (New York or
-                            Remote,
-                            OT)
-                        </a>
-                    </li>
-                    <li>
                         <a href="https://apps.atsondemand.com/templates/magneto/#/jobDescription/909315/"
                            target="_blank">
                             Environmental Science and Economics Editorial Internship, Summer 2026 (New York or
@@ -679,18 +664,6 @@ function App() {
                         <a href="https://apps.atsondemand.com/templates/magneto/#/jobDescription/909316/"
                            target="_blank">
                             Geosciences Editorial Internship, Summer 2026 (New York or Remote, OT)
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://apps.atsondemand.com/templates/magneto/#/jobDescription/909320/"
-                           target="_blank">
-                            History Editorial Internship, Summer 2026 (New York or Remote, OT)
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://apps.atsondemand.com/templates/magneto/#/jobDescription/909323/"
-                           target="_blank">
-                            Psychology Media Editorial Internship, Summer 2026 (New York or Remote, OT)
                         </a>
                     </li>
                     <li>
@@ -781,6 +754,12 @@ function App() {
                         <a href="https://apps.atsondemand.com/templates/magneto/#/jobDescription/909352/"
                            target="_blank">
                             Digital Production Internship, Summer 2026 (Remote, OT)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://apps.atsondemand.com/templates/magneto/#/jobDescription/909359/"
+                           target="_blank">
+                            Trade Publicity Internship, Summer 2026 (New York, NY)
                         </a>
                     </li>
                     <li>
