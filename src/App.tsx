@@ -58,13 +58,7 @@ function App() {
                        target="_blank">
                         Administrative Assistant, IT (Hybrid)
                     </a>
-                </li><li>
-                    <a href="https://jobsearch.createyourowncareer.com/PRH_US/job/Associate-Production-Editor-%28Open-to-remote%29/287845-en_US"
-                       target="_blank">
-                        Associate Production Editor (Open to remote)
-                    </a>
                 </li>
-
                 </ul>
                 <hr/>
                 <br/>
@@ -133,6 +127,12 @@ function App() {
   <p style={{margin: 0}}>Macmillan</p>
 </span>
                 <ul>
+                    <li>
+                        <a href="https://recruiting.ultipro.com/HOL1002HPHM/JobBoard/be27b89b-3cb9-491f-a1b0-42f8b077a9dd/OpportunityDetail?opportunityId=0f9541bf-a936-4e8f-b6fd-3849cc37c8db"
+                           target="_blank">
+                            Assoc, Multimedia Content (Remote/NY)
+                        </a>
+                    </li>
                     <li>
                         <a href="https://recruiting.ultipro.com/HOL1002HPHM/JobBoard/be27b89b-3cb9-491f-a1b0-42f8b077a9dd/OpportunityDetail?opportunityId=b61a7829-db26-4b7d-ad30-79e55f8200c4"
                            target="_blank">
@@ -359,6 +359,11 @@ function App() {
 </span>
                 <ul>
                     <li>
+                        <a href="https://jobs.jobvite.com/hachette-book-group/job/o5vPzfwI" target="_blank">
+                            Summer 2026 Contracts Internship (New York, New York)
+                        </a>
+                    </li>
+                    <li>
                         <a href="https://jobs.jobvite.com/hachette-book-group/job/oLANzfwr" target="_blank">
                             Summer 2026 Timber Press Publicity Internship (Portland, OR)
                         </a>
@@ -411,11 +416,6 @@ function App() {
                     <li>
                         <a href="https://jobs.jobvite.com/hachette-book-group/job/o90Lzfwd" target="_blank">
                             Spring/Summer 2026 Marketing Intern, Basic Books Group (New York, New York)
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://jobs.jobvite.com/hachette-book-group/job/oD9PzfwU" target="_blank">
-                            Summer 2026 Library & Academic Marketing/Sales Internship (New York, New York)
                         </a>
                     </li>
                     <li>
