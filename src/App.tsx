@@ -183,12 +183,6 @@ function App() {
                             Publicity Assistant, Simon & Schuster Flagship (New York, NY)
                         </a>
                     </li>
-                    <li>
-                        <a href="https://jobs.dayforcehcm.com/en-US/simonschustr/CANDIDATEPORTAL/jobs/5933"
-                           target="_blank">
-                            Editorial Assistant, Gallery Books, specializing in Romance (New York, NY)
-                        </a>
-                    </li>
                 </ul>
                 <hr/>
                 <br/>
@@ -221,12 +215,6 @@ function App() {
                         <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4031880"
                            target="_blank">
                             Marketing & Publicity Assistant, Special Interest (Hybrid New York, NY)
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3966586?source=Internal%20Careers%20Page"
-                           target="_blank">
-                            Customer Service Representative-Hybrid (Greenbelt, MD)
                         </a>
                     </li>
                     <li>
@@ -358,6 +346,11 @@ function App() {
   <p style={{margin: 0}}>Hachette Book Group</p>
 </span>
                 <ul>
+                    <li>
+                        <a href="https://jobs.jobvite.com/hachette-book-group/job/olYWzfwy" target="_blank">
+                            Summer 2026 Workman Marketing & Publicity Internship (New York, New York)
+                        </a>
+                    </li>
                     <li>
                         <a href="https://jobs.jobvite.com/hachette-book-group/job/o5vPzfwI" target="_blank">
                             Summer 2026 Contracts Internship (New York, New York)
