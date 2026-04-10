@@ -48,9 +48,21 @@ function App() {
 </span>
                 <ul>
                     <li>
-                        <a href="https://jobsearch.createyourowncareer.com/PRH_US/job/Publicity-Assistant%2C-Riverhead-%28Hybrid%29/287383-en_US"
+                        <a href="https://jobsearch.createyourowncareer.com/PRH_US/job/Production-Design-Assistant-%28Open-to-Remote%29/288085-en_US"
                            target="_blank">
-                            Publicity Assistant, Riverhead (Hybrid)
+                            Production Design Assistant (Open to Remote)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://jobsearch.createyourowncareer.com/PRH_US/job/Marketing-Assistant%2C-Putnam-%28Hybrid%29/288084-en_US"
+                           target="_blank">
+                            Marketing Assistant, Putnam - (Hybrid)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://jobsearch.createyourowncareer.com/PRH_US/job/Sales-Assistant%2C-National-Retail-Accounts-%28Hybrid%29/288013-en_US"
+                           target="_blank">
+                            Sales Assistant, National Retail Accounts (Hybrid)
                         </a>
                     </li>
                     <li>
@@ -101,6 +113,12 @@ function App() {
   <p style={{margin: 0}}>Harper Collins</p>
 </span>
                 <ul>
+                    <li>
+                        <a href="https://careers-harpercollins.icims.com/jobs/5294/assistant-designer-%28nyc-hybrid%29/job?hub=7&_gl=1*1m1m90j*_ga*MTM3OTEyMzI1OC4xNzYzNDMxMDY4*_ga_5Y2BYGL910*czE3NzU4NTgyMzgkbzgyJGcxJHQxNzc1ODU4MjM5JGo1OSRsMCRoMA.."
+                           target="_blank">
+                            Assistant Designer (NYC Hybrid)
+                        </a>
+                    </li>
                     <li>
                         <a href="https://careers-harpercollins.icims.com/jobs/5290/associate-editor-%28nyc-hybrid%29/job?hub=7&_gl=1*1p9y609*_ga*MTM3OTEyMzI1OC4xNzYzNDMxMDY4*_ga_5Y2BYGL910*czE3NzQ3NTM0NTAkbzc2JGcxJHQxNzc0NzUzNDY1JGo0NSRsMCRoMA.."
                            target="_blank">
@@ -166,6 +184,24 @@ function App() {
 </span>
                 <ul>
                     <li>
+                        <a href="https://jobs.dayforcehcm.com/en-US/simonschustr/CANDIDATEPORTAL/jobs/6141"
+                           target="_blank">
+                            Jr Associate Producer, Audiobooks (New York, NY)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://jobs.dayforcehcm.com/en-US/simonschustr/CANDIDATEPORTAL/jobs/6125"
+                           target="_blank">
+                            Publicity & Influencer Outreach Assistant, Saga Press (New York, NY)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://jobs.dayforcehcm.com/en-US/simonschustr/CANDIDATEPORTAL/jobs/6119"
+                           target="_blank">
+                            Publishing & Editorial Assistant, Saga Press (New York, NY)
+                        </a>
+                    </li>
+                    <li>
                         <a href="https://jobs.dayforcehcm.com/en-US/simonschustr/CANDIDATEPORTAL/jobs/6055"
                            target="_blank">
                             Editorial Assistant, Scribner Books (New York, NY)
@@ -192,6 +228,12 @@ function App() {
 </span>
                 <ul>
                     <li>
+                        <a href="https://sourcebooks.applytojob.com/apply/qGoCPnGYmn/Marketing-Publicity-Associate-Childrens"
+                           target="_blank">
+                            Marketing & Publicity Associate - Children's (Remote)
+                        </a>
+                    </li>
+                    <li>
                         <a href="https://sourcebooks.applytojob.com/apply/GI30NsIufG/Junior-Accounts-Receivable-Accountant"
                            target="_blank">
                             Junior Accounts Receivable Accountant (Naperville, IL)
@@ -205,24 +247,6 @@ function App() {
   <p style={{margin: 0}}>Bloomsbury</p>
 </span>
                 <ul>
-                    <li>
-                        <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4054532?source=Internal%20Careers%20Page"
-                           target="_blank">
-                            Editorial Assistant, Bloomsbury Academic-Hybrid (Greenbelt, MD)
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4031880"
-                           target="_blank">
-                            Marketing & Publicity Assistant, Special Interest (Hybrid New York, NY)
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3979396?source=Internal%20Careers%20Page"
-                           target="_blank">
-                            Editorial Assistant, Bloomsbury Academic-Hybrid (Greenbelt, MD)
-                        </a>
-                    </li>
                 </ul>
                 <hr/>
                 <br/>
@@ -232,17 +256,24 @@ function App() {
 </span>
                 <ul>
                     <li>
+                        <a href="https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York/Internal-Communications-Coordinator_R15334"
+                           target="_blank">
+                            Internal Communications Coordinator (New York, NY)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York/Publicity---Travel-Coordinator_R15075"
+                           target="_blank">
+                            Travel Coordinator (New York, NY)
+                        </a>
+                    </li>
+                    <li>
                         <a href="https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York/Editorial-Assistant_R15277"
                            target="_blank">
                             Editorial Assistant (New York, NY)
                         </a>
                     </li>
-                    <li>
-                        <a href="https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York/Publicity-Assistant_R15224"
-                           target="_blank">
-                            Publicity Assistant (New York, NY)
-                        </a>
-                    </li>
+
                     <li>
                         <a href="https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York/Contracts-Administrator_R15212"
                            target="_blank">
@@ -255,12 +286,7 @@ function App() {
                             Junior Designer (New York, NY)
                         </a>
                     </li>
-                    <li>
-                        <a href="https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York/Publicity---Travel-Coordinator_R15075"
-                           target="_blank">
-                            Publicity & Travel Coordinator (New York, NY)
-                        </a>
-                    </li>
+
                     <li>
                         <a href="https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/Hoffman-Estates-Illinois/HR-Coordinator_R15010"
                            target="_blank">
@@ -291,12 +317,6 @@ function App() {
   <p style={{margin: 0}}>Abrams</p>
 </span>
                 <ul>
-                    <li>
-                        <a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8e27a2d8-9a25-4600-a40b-77eec5e6daaa&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=547206"
-                           target="_blank">
-                            Editorial Assistant-Children's (New York, NY)
-                        </a>
-                    </li>
                     <li>
                         <a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8e27a2d8-9a25-4600-a40b-77eec5e6daaa&ccId=19000101_000001&lang=en_US&jobId=546786"
                            target="_blank">
@@ -346,6 +366,11 @@ function App() {
   <p style={{margin: 0}}>Hachette Book Group</p>
 </span>
                 <ul>
+                    <li>
+                        <a href="https://jobs.jobvite.com/hachette-book-group/job/oUxNzfwx" target="_blank">
+                            Summer 2026 Cybersecurity Risk & Governance Internship (New York, New York)
+                        </a>
+                    </li>
                     <li>
                         <a href="https://jobs.jobvite.com/hachette-book-group/job/olYWzfwy" target="_blank">
                             Summer 2026 Workman Marketing & Publicity Internship (New York, New York)
@@ -412,16 +437,6 @@ function App() {
                         </a>
                     </li>
                     <li>
-                        <a href="https://jobs.jobvite.com/hachette-book-group/job/o50Szfwg" target="_blank">
-                            Summer 2026 Little, Brown Marketing & Publicity Internship (New York, New York)
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://jobs.jobvite.com/hachette-book-group/job/o5xNzfwI" target="_blank">
-                            Summer 2026 Production Manufacturing Internship (New York, New York)
-                        </a>
-                    </li>
-                    <li>
                         <a href="https://jobs.jobvite.com/hachette-book-group/job/optRzfw2" target="_blank">
                             Summer 2026 Special Markets Internship (New York, New York)
                         </a>
@@ -468,19 +483,7 @@ function App() {
                             Brand Experience Marketing Intern, Macmillan Learning (Remote)
                         </a>
                     </li>
-                    <li>
-                        <a href="https://recruiting.ultipro.com/HOL1002HPHM/JobBoard/be27b89b-3cb9-491f-a1b0-42f8b077a9dd/OpportunityDetail?opportunityId=e2a035fd-594e-41de-ab35-94747cfe90bc"
-                           target="_blank">
-                            Content Management - Production & Permissions Intern, Macmillan Learning (New
-                            York,NY/Boston,MA)
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://recruiting.ultipro.com/HOL1002HPHM/JobBoard/be27b89b-3cb9-491f-a1b0-42f8b077a9dd/OpportunityDetail?opportunityId=80b3f9f4-d619-4454-b1d7-787abf8c1ac5"
-                           target="_blank">
-                            Customer Support Intern, Macmillan Learning (Remote)
-                        </a>
-                    </li>
+
                     <li>
                         <a href="https://recruiting.ultipro.com/HOL1002HPHM/JobBoard/be27b89b-3cb9-491f-a1b0-42f8b077a9dd/OpportunityDetail?opportunityId=af353f41-20d1-42d5-b7a4-a19551a0b787"
                            target="_blank">
@@ -502,12 +505,6 @@ function App() {
   <p style={{margin: 0}}>Simon & Schuster</p>
 </span>
                 <ul>
-                    <li>
-                        <a href="https://jobs.dayforcehcm.com/en-US/simonschustr/CANDIDATEPORTAL/jobs/5740"
-                           target="_blank">
-                            Customer Financial Services Intern, Summer 2026 (Riverside, NJ)
-                        </a>
-                    </li>
                 </ul>
                 <hr/>
                 <br/>
@@ -571,12 +568,6 @@ function App() {
   <p style={{margin: 0}}>Holiday House/Peachtree</p>
 </span>
                 <ul>
-                    <li>
-                        <a href="https://www.peachtreebooks.com/wp-content/uploads/2021/06/PT-Internship-Posting-Summer-2026.docx"
-                           target="_blank">
-                            Summer 2026 General Publishing Intern / Paid, Part Time (Atlanta, GA)
-                        </a>
-                    </li>
                 </ul>
                 <hr/>
                 <br/>
@@ -642,12 +633,7 @@ function App() {
   <p style={{margin: 0}}>W.W. Norton</p>
 </span>
                 <ul>
-                    <li>
-                        <a href="https://apps.atsondemand.com/templates/magneto/#/jobDescription/909347/"
-                           target="_blank">
-                            Client Services Internship, Summer 2026 (New York or Remote, OT)
-                        </a>
-                    </li>
+
                     <li>
                         <a href="https://apps.atsondemand.com/templates/magneto/#/jobDescription/909343/"
                            target="_blank">
@@ -660,19 +646,7 @@ function App() {
                             Chemistry Print and Media Internship, Summer 2026 (New York or Remote, OT)
                         </a>
                     </li>
-                    <li>
-                        <a href="https://apps.atsondemand.com/templates/magneto/#/jobDescription/909322/"
-                           target="_blank">
-                            College Manuscript Editorial Internship, Summer 2026 (New York or Remote, OT)
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://apps.atsondemand.com/templates/magneto/#/jobDescription/909315/"
-                           target="_blank">
-                            Environmental Science and Economics Editorial Internship, Summer 2026 (New York or
-                            Remote, OT)
-                        </a>
-                    </li>
+
                     <li>
                         <a href="https://apps.atsondemand.com/templates/magneto/#/jobDescription/909316/"
                            target="_blank">
